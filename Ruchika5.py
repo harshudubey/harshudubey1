@@ -11,7 +11,7 @@ try:
     import mechanize
 except ImportError:
     os.system('pip2 install mechanize')
-    os.system('python2 lovehacker.py')
+    os.system('python2 Ruchika5.py')
 
 from requests.exceptions import ConnectionError
 from mechanize import Browser
